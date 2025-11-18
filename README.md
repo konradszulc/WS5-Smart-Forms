@@ -7,7 +7,7 @@
 
 3. See console output by opening browser developer tools. Shortcuts for Windows/Linux: Press F12 or Ctrl + Shift + I. Shortcuts for Mac: Press Cmd + Opt + I
 
-4. Interact with the various features on webpage, to see the results. For example Obj 3 has screenshot below as to what it should look like in your browser.
+4. Interact with the Form on Webpage to see validation, Saved drafts and submitted data. Screenshots below provide some usage examples and functionalities of form.
 
 ## Objective
 
