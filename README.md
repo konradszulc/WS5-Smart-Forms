@@ -15,15 +15,15 @@ The objective of this task was to build a dynamic form in Javascript, that utili
 
 ## Checklist
 
-1. Each Label has for and Id Attributes [X]
-2. ScreenReader active, reading input fields and page as needed [X]
-3. Focus goes to first error on submit [X]
-4. Text and highlights, error summaries all come into play to convey meaning [X]
-5. Tab changes focus to each input field [X]
-6. Does not store passwords in submitted data [X]
-7. local storage works well to keep saved draft to restored data [X]
-8. No console errors, and used console tools for debugging well [X]
-9. Phone normalisation with blur, worked as intended [X]
+ - [X] Each Label has for and Id Attributes 
+ - [X] ScreenReader active, reading input fields and page as needed 
+ - [X] Focus goes to first error on submit 
+ - [X] Text and highlights, error summaries all come into play to convey meaning 
+ - [X] Tab changes focus to each input field 
+ - [X] Does not store passwords in submitted data 
+ - [X] local storage works well to keep saved draft to restored data 
+ - [X] No console errors, and used console tools for debugging well 
+ - [X] Phone normalisation with blur, worked as intended 
 
 ## ScreenShots
 
